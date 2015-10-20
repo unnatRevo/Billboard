@@ -1,24 +1,9 @@
 # Billboard
-this is awesomeasdfOBOB
-this is awesome again.
-asdf
-adsf
-ads
-f
-asdf
-as
-dasadsfyaagaga
-ds
-ga
+Go through below link and learn git it will be helpfull in future also.
+https://www.youtube.com/watch?v=Y9XZQO1n_7c
 
-fASDYSGAD	SDFGSDFG
-SD
-FG
-SDF
-GS
-DFG
-S
-DFG
-SDF
-	
-.
+learn it and make sure you use of it.
+from now i will update project status on this repo only.
+make sure to check it and after updating i will inform you guys to check it out.
+thank you.
+
